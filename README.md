@@ -6,6 +6,8 @@ UF2: Optimización de Programas
 Actividad 3: Desarrollo de un juego de cartas
 
 <br>
+<br>
+<br>
 Objetivos </b>
 <br>
  ______________________________________________________________________
