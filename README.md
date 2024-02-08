@@ -1,4 +1,4 @@
-<center><img src="https://github.com/tomepro/blackjack/blob/main/img_portada.jpg" /></center>
+<div align="center"><img src="https://github.com/tomepro/blackjack/blob/main/img_portada.jpg"></div>
 <b>
  <h1>M05: Entornos de Desarrollo</h1>
 <br>
