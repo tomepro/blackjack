@@ -1,10 +1,10 @@
 <div align="center"><img src="https://github.com/tomepro/blackjack/blob/main/img_portada.jpg"></div>
 <b>
- <h1>M05: Entornos de Desarrollo</h1>
+<h1 align="center">M05: Entornos de Desarrollo</h1>
 <br>
-<h2>UF2: Optimización de Programas</h2>
+<h2 align="center">UF2: Optimización de Programas</h2>
 <br>
-<h3>Actividad 3: Desarrollo de un juego de cartas</h3>
+<h3 align="center">Actividad 3: Desarrollo de un juego de cartas</h3>
 
 <br>
 <br>
