@@ -1,4 +1,4 @@
-<img src="img_portada" />
+<img src="[img_portada](https://github.com/tomepro/blackjack/blob/main/img_portada.jpg)" />
 <b>M05: Entornos de Desarrollo
 <br>
 UF2: Optimización de Programas
