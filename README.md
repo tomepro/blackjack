@@ -1,4 +1,4 @@
-<img src="https://github.com/tomepro/blackjack/blob/main/img_portada.jpg" />
+<center><img src="https://github.com/tomepro/blackjack/blob/main/img_portada.jpg" /></center>
 <b>M05: Entornos de Desarrollo
 <br>
 UF2: Optimización de Programas
