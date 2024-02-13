@@ -489,7 +489,7 @@ int main()
 				Sleep(1000);
 				cout << "\nEl croupier te una puntuacio de: " << puntuacio_croupier << "\n\n";
 				Sleep(1000);
-				cout << "\n\n\nDemanar una altra carta ?\n";
+				cout << "\n\n\nDemanar una altra carta ? '0' per sortir\n";
 				cin >> altra_ronda;
 				if (altra_ronda == "0")
 				{
