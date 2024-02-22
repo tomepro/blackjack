@@ -1,13 +1,3 @@
-<div align="center"><img src="https://github.com/tomepro/M5/blob/main/img_portada.jpg"></div>
-<b>
-<h1 align="center">M05: Entornos de Desarrollo</h1>
-<br>
-<h2 align="center">UF2: Optimización de Programas</h2>
-<br>
-<h3 align="center">Actividad 3: Desarrollo de un juego de cartas</h3>
-
-<br>
-<br>
 <pre>
       ..          ..                             ..                                          ..
 . uW8"      x .d88"                        < .z@8"`         ..                         < .z@8"`
@@ -26,75 +16,17 @@
                                                          .J88" "
 
 </pre>
+<b>
+<h1 align="center">M05: Entornos de Desarrollo</h1>
+<br>
+<h2 align="center">UF2: Optimización de Programas</h2>
+<br>
+<h3 align="center">Actividad 3: Desarrollo de un juego de cartas</h3>
 
-<pre>
-,--.    ,--.                 ,--.       ,--.                 ,--.
-|  |-.  |  |  ,--,--.  ,---. |  |,-.    `--'  ,--,--.  ,---. |  |,-.
-| .-. ' |  | ' ,-.  | | .--' |     /    ,--. ' ,-.  | | .--' |     /
-| `-' | |  | \ '-'  | \ `--. |  \  \    |  | \ '-'  | \ `--. |  \  \
- `---'  `--'  `--`--'  `---' `--'`--' .-'  /  `--`--'  `---' `--'`--'
-                                      '---'
+<br>
+<br>
 
-</pre>
 
-<pre>
- ___       ___                      ___                                       ___
-(   )     (   )                    (   )                                     (   )
- | |.-.    | |    .---.    .--.     | |   ___        .-.    .---.    .--.     | |   ___
- | /   \   | |   / .-, \  /    \    | |  (   )      ( __)  / .-, \  /    \    | |  (   )
- |  .-. |  | |  (__) ; | |  .-. ;   | |  ' /        (''") (__) ; | |  .-. ;   | |  ' /
- | |  | |  | |    .'`  | |  |(___)  | |,' /          | |    .'`  | |  |(___)  | |,' /
- | |  | |  | |   / .'| | |  |       | .  '.          | |   / .'| | |  |       | .  '.
- | |  | |  | |  | /  | | |  | ___   | | `. \         | |  | /  | | |  | ___   | | `. \
- | '  | |  | |  ; |  ; | |  '(   )  | |   \ \        | |  ; |  ; | |  '(   )  | |   \ \
- ' `-' ;   | |  ' `-'  | '  `-' |   | |    \ .   ___ | |  ' `-'  | '  `-' |   | |    \ .
-  `.__.   (___) `.__.'_.  `.__,'   (___ ) (___) (   )' |  `.__.'_.  `.__,'   (___ ) (___)
-                                                 ; `-' '
-                                                  .__.'
- 
-</pre>
-
-<pre>
- 88           88                          88            88                          88
-88           88                          88            ""                          88
-88           88                          88                                        88
-88,dPPYba,   88  ,adPPYYba,   ,adPPYba,  88   ,d8      88  ,adPPYYba,   ,adPPYba,  88   ,d8
-88P'    "8a  88  ""     `Y8  a8"     ""  88 ,a8"       88  ""     `Y8  a8"     ""  88 ,a8"
-88       d8  88  ,adPPPPP88  8b          8888[         88  ,adPPPPP88  8b          8888[
-88b,   ,a8"  88  88,    ,88  "8a,   ,aa  88`"Yba,      88  88,    ,88  "8a,   ,aa  88`"Yba,
-8Y"Ybbd8"'   88  `"8bbdP"Y8   `"Ybbd8"'  88   `Y8a     88  `"8bbdP"Y8   `"Ybbd8"'  88   `Y8a
-                                                      ,88
-                                                    888P"
-
-</pre>
-
-<pre>
-  .o8       oooo                      oooo            o8o                     oooo
-"888       `888                      `888            `"'                     `888
- 888oooo.   888   .oooo.    .ooooo.   888  oooo     oooo  .oooo.    .ooooo.   888  oooo
- d88' `88b  888  `P  )88b  d88' `"Y8  888 .8P'      `888 `P  )88b  d88' `"Y8  888 .8P'
- 888   888  888   .oP"888  888        888888.        888  .oP"888  888        888888.
- 888   888  888  d8(  888  888   .o8  888 `88b.      888 d8(  888  888   .o8  888 `88b.
- `Y8bod8P' o888o `Y888""8o `Y8bod8P' o888o o888o     888 `Y888""8o `Y8bod8P' o888o o888o
-                                                     888
-                                                 .o. 88P
-                                                 `Y888P
-
-</pre>
-
-<pre>
-  d8b       d8b                   d8b          d8,                   d8b
- ?88       88P                   ?88         `8P                    ?88
-  88b     d88                     88b                                88b
-  888888b 888   d888b8b   d8888b  888  d88'  d88   d888b8b   d8888b  888  d88'
-  88P `?8b?88  d8P' ?88  d8P' `P  888bd8P'   ?88  d8P' ?88  d8P' `P  888bd8P'
- d88,  d88 88b 88b  ,88b 88b     d88888b      88b 88b  ,88b 88b     d88888b
-d88'`?88P'  88b`?88P'`88b`?888P'd88' `?88b,   `88b`?88P'`88b`?888P'd88' `?88b,
-                                               )88
-                                              ,88P
-                                           `?888P
-
-</pre>
 <br>
 Objetivos </b>
 <br>
